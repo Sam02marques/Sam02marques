@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sam02marques
+- 👋 Hi, I’m Samuel Marques
 - 👀 I’m interested in programmation, games design, HTML, Python
-- 🌱 I’m currently learning ... Python, HTML, CSS and JS
+- 🌱 I’m currently learning Python, HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... HE/him
