@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Samuel Marques
 - 👀 I’m interested in programmation, games design, HTML, Python
 - 🌱 I’m currently learning Python, HTML, CSS and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... HE/him
+- 💞️ I’m looking to collaborate on a lot of projects 
+- 😄 Pronouns: HE/him
 - ⚡ Fun fact: I love indie games
 
 <!---
