@@ -34,7 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sam02marques/Sam02marques/output/snake.svg" alt="Snake animation" />
 
 ###
 
