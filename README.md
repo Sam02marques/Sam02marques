@@ -1,6 +1,6 @@
 ##  👋 Hello, my name is Samuel!
 
-I'm a web development student and a Chemistry technician. Currently, I'm focused on learning more about JavaScript, TypeScript, React, and Docker.
+I'm a web development student and a Chemistry technician. Currently, I'm focused on learning more about Python, TypeScript, React, and Docker.
 
 Curious by nature and determined to grow in the field of Computer Science, which I plan to study at UFF (Fluminense Federal University).
 
