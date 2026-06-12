@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning cybersecurity fundamentals and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills</p>
+<p align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning Python and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills</p>
 
 ###
 
@@ -67,6 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
