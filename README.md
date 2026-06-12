@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV2czUxYXo3ZzNiMGQ3aDkycmtobDVqcXlrNnJuMDBxYTlwdjFuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV2czUxYXo3ZzNiMGQ3aDkycmtobDVqcXlrNnJuMDBxYTlwdjFuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning Python and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills</p>
+<h3 align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning Python and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills<br><br>Email: samuel_araujo@id.uff.br</h3>
 
 ###
 
