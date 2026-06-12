@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning Python and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills<br><br>Email: samuel_araujo@id.uff.br</h3>
+<h3 align="left">I'm Samuel Marques, an Information Systems undergraduate and Full Stack Developer passionate about building scalable web applications and exploring cybersecurity.<br><br>* 🔭 I’m currently working on personal projects and improving my developer portfolio<br>* 📚 I'm currently learning Python and strengthening my full stack development skills<br>* ⚡ In my free time I study technology, play videogames, build side projects, and continuously improve my programming skills</h3>
 
 ###
 
